@@ -18,7 +18,7 @@ export default function Navbar() {
           <div className="">
             <div>
               <h1>asdadadssa</h1>
-              <p></p>
+              <p>asdadsa</p>
             </div>
           </div>
 
