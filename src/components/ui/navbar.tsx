@@ -16,10 +16,7 @@ export default function Navbar() {
           </div>
 
           <div className="">
-            <div>
-              <h1>asdadadssa</h1>
-              <p>asdadsa</p>
-            </div>
+
           </div>
 
         </div>
