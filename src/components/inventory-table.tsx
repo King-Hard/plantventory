@@ -82,7 +82,9 @@ export default function InventoryTable() {
         </TableBody>
       </Table>
 
-          
+          <div>
+            
+          </div>
 
     </div>
   );
