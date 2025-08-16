@@ -83,7 +83,7 @@ export default function InventoryTable() {
       </Table>
 
           <div>
-            <h1></h1>
+            <h1>AHHAHAHA</h1>
           </div>
 
     </div>
