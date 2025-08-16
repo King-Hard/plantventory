@@ -81,16 +81,6 @@ export default function InventoryTable() {
           ))}
         </TableBody>
       </Table>
-
-          <div>
-            <h1>AHHAHAHA</h1>
-            <p>SAHHDSAJD</p>
-            <div>
-              ansdnajdnjnsad
-              <h1>adsadsada</h1>
-            </div>
-          </div>
-
     </div>
   );
 };
